@@ -1,0 +1,3 @@
+lion; Oscar; 10; Enjoys sleeping, likes to play with food, does not like swimming; Grasslands, Savannas, Scrublands; Meat
+lion; Rufy; 14; Likes digging, always happy; Grasslands, Savannas, Scrublands; Meat
+zebra; Daniella; Likes licking fingers (Be Careful!), loves carrots; Grasslands, Savannas, Scrublands; Grass
